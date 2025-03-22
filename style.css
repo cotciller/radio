@@ -1,0 +1,21 @@
+h1{
+    color: #F9BF3B;
+}
+body{
+    background-color: grey;
+}
+h2{
+    color:white
+}
+.title-orange{
+    color: #F9BF3B;
+}
+.text{
+    color:rgb(255, 255, 255) ;
+}
+.button-1{
+     background: linear-gradient(0deg, #FF4D00 0%, #FEB05D 100%);
+     width: 315px;
+    height: 72px;
+    color: #fff;
+}
